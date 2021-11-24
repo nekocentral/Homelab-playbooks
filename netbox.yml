@@ -81,3 +81,4 @@
       copy: 
         src: /opt/netbox-3.0.10/netbox/netbox/configuration.example.py
         dest: /opt/netbox-3.0.10/netbox/netbox/configuration.py
+        remote_src: yes
